@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.rr {
+  color: #b9b2b2;
+  background-color: #df4848;
+  background-image: url(./assets/Nicolas1.png);
+  flex-direction: column;
+}
